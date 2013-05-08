@@ -1,0 +1,236 @@
+sentenecID,sentenceType,c1,c2,maxKL
+106,nonpun, known , prophet ;daniel;dreams;interpreting ,0.000104000692332
+107,nonpun, pi ;number , up ,0.000550188868318
+108,nonpun, milk , knead ;bread;dough;flour;make;together ,0.000278469953414
+109,nonpun, oar  , oar ;fisherman;river ,5.69713295032e-05
+110,nonpun, tiers ;stacked , warehouse ,1.20064839672e-05
+111,nonpun, poll  , poll ;conducted;political;pollsters;popularity ,0.0157992631925
+112,nonpun, old , bored ;time ,9.70062453426e-06
+113,nonpun, greece ;europe , portion ,0.000467463444703
+114,nonpun, sine  , sine ;function;function;mathematics ,0.000121465825295
+115,nonpun, principal ;school , wu ,0.00114213491853
+116,nonpun, cd ;classical;music , new ,0.00856428441602
+117,nonpun, rapidly , hare ;ran;rapidly ,5.47633659936e-06
+118,nonpun, knotty  , made ,5.27668926454e-07
+119,nonpun, taut ;clothesline;hangs , poles ,1.60781896072e-06
+120,nonpun, marx ;karl;philosopher , marx  ,0.0001877279622
+121,nonpun, hi  , hi ;waved ,0.000840114584168
+122,nonpun, learning;news , daze  ,2.28159138928e-06
+123,nonpun, prose  , prose ;novels;written ,0.000134823396862
+124,nonpun, plane  , plane ;landed ,5.38836141574e-05
+125,nonpun, sticks , dam ;building;logs;sticks ,0.000152216667386
+126,nonpun, hertz ;mega;processing , thirty-three ,2.08426237914e-05
+127,nonpun, show , role ;plays;show;television ,0.00181637993343
+128,nonpun, puts , collar ;walking ,5.14012444064e-05
+129,nonpun, friend's , steal ;wanted ,2.84351128533e-05
+130,nonpun, dye  , like;not ,1.66522381261e-05
+131,nonpun, waist ;small;tiny , look ,5.94555716928e-05
+132,nonpun, feet ;shoes , new ,0.00150629502911
+133,nonpun, aloud ;poem;read , student ,3.59388676577e-05
+134,nonpun, pail ;filled;water , worker ,1.59323462293e-05
+135,nonpun, those , manor ;live;wealthy ,0.000261321312329
+136,nonpun, pages , cache ;database;stored;web ,0.000345358973912
+137,nonpun, took , reign ;heir;king's ,0.000268761238151
+138,nonpun, favorite , thyme ;flavored;meals;sauce ,2.29204550999e-05
+139,nonpun, pore ;skin;small;surface , very ,8.6955773134e-05
+140,nonpun, gilt ;frame , frame ,1.41579606476e-06
+141,nonpun, heir ;prince;throne;william , william ,0.000137242638504
+142,nonpun, son  , son  ,0.0
+143,nonpun, c's  , hard;high ,6.20490250139e-05
+144,nonpun, desk , watt ;lamp;light;sixty ,0.00214863310496
+145,nonpun, used , razor ;shave;used ,7.84268646181e-05
+146,nonpun, easy , knot ;tie ,8.99122938432e-05
+147,nonpun, wood  , wood ;trees ,0.00132672171182
+148,nonpun, grader ;score;tests , grader  ,3.6734776893e-05
+149,nonpun, eye  , eye  ,0.0
+150,nonpun, cell  , learned ,0.000259547262469
+151,nonpun, scent  , scent  ,0.0
+152,nonpun, took , course ;took ,0.000300294213439
+153,nonpun, deer  , deer  ,0.0
+154,nonpun, steal , bee ;honey;stung ,0.00190594998095
+155,nonpun, slowly , brake ;slowly ,2.08497729338e-05
+156,nonpun, flour  , different ,4.41762557832e-07
+157,nonpun, fare  , fare  ,0.0
+158,nonpun, heel  , heel ;walking ,6.1060595184e-05
+159,nonpun, hymn  , hymn ;sang ,1.55871856557e-05
+160,nonpun, no's  , string ,1.35966581849e-05
+161,nonpun, inn  , inn  ,0.0
+162,nonpun, idol  , idol ;movie;star ,0.000210123588125
+163,nonpun, hired , maid ;hired ,1.06859709103e-05
+164,nonpun, nun ;pious , very ,1.48882093211e-05
+165,nonpun, loved , mourning ;loved ,3.42458963052e-06
+166,nonpun, vegetarians , meat ;vegetarians ,3.16055056175e-05
+167,nonpun, reel  , need ,2.15940485055e-05
+168,nonpun, pear  , pear ;ate ,1.64219036034e-05
+169,nonpun, pray ;christians , customary ,0.0002476327102
+170,nonpun, root  , tripped ,7.56820113876e-05
+171,nonpun, year , profit ;dollars;made;million;year ,0.0085592886949
+172,nonpun, like , pie ;dessert ,0.000205758408615
+173,nonpun, need  , programmers ,0.000653225508247
+174,nonpun, or  , care;problems ,0.00900133384083
+175,nonpun, tears ;movie;sad , ran ,0.000218330920668
+176,nonpun, raised , pole ;up ,1.77800132323e-05
+177,nonpun, board  , board ;directors;meeting ,0.00640300240602
+178,nonpun, grease  , grease  ,0.0
+179,nonpun, clothes , sign ;says;store ,0.00597505410192
+180,nonpun, physics , principle ;physics ,3.47182284477e-05
+181,nonpun, full , seedy ;unwashed ,1.18291304799e-06
+182,nonpun, lots , hair ;people ,0.000439224531621
+183,nonpun, child , naughty ;child ,9.63237718332e-06
+184,nonpun, taught  , taught ;mathematics;students ,0.000637710523054
+185,nonpun, high , marks ;high;high;school ,0.00043339149349
+186,nonpun, high ;statue , ten ,0.00138991555495
+187,nonpun, days  , days ;week ,0.00500691352593
+188,nonpun, pros  , sites;social ,2.16028193526e-05
+189,nonpun, plain  , sister ,6.30995291237e-05
+190,nonpun, damn  , not ,3.22008584394e-05
+191,nonpun, leg , hurts ;leg ,3.30485412812e-06
+192,nonpun, roll  , dress ,8.88266637261e-05
+193,nonpun, caller  , caller ;phone ,7.46346082572e-05
+194,nonpun, steel ;ship , wood ,0.000240434227587
+195,nonpun, die ;heart;scared , very ,0.000508111303297
+196,nonpun, waste ;time , time ,8.51716957704e-05
+197,nonpun, feat  , studying ,1.25518543812e-05
+198,nonpun, son , allowed ;use ,0.000136868950812
+199,nonpun, pale  , pale ;sick ,2.35575864483e-05
+200,nonpun, manner  , party ,5.44135450404e-05
+201,nonpun, years , cash ;chips;stocks;ten ,2.0346837755e-05
+202,nonpun, rain ;fell , night ,0.000127294603459
+203,nonpun, meeting , time ;meeting ,0.00223304211322
+204,nonpun, poor ;family , food ,0.000164295025214
+205,nonpun, decides , guilt ;innocence;jury;person ,0.000104526428011
+206,nonpun, err  , better ,1.1596200282e-05
+207,nonpun, sun  , sun ;morning;rises;sets ,0.0225384371233
+208,nonpun, seas  , seas ;mid-atlantic;ship ,0.000249536074547
+209,nonpun, what  , teacher ,0.00201480761192
+210,nonpun, raiser ;fund , girl ,7.31949938183e-06
+211,nonpun, not  , not  ,0.0
+212,nonpun, would ;let;not , party ,0.00165646327367
+213,nonpun, slices , grater ;cheese;slices ,5.79454634105e-06
+214,nonpun, know , i ;know ,0.00350377749025
+215,nonpun, sell ;good;price , good ,0.00273341369731
+216,nonpun, let , cent ;stingy ,0.000166924439879
+217,nonpun, coarse  , very ,3.99273352685e-06
+218,nonpun, dear  , dear  ,0.0
+219,nonpun, be  , worry ,0.00657124219656
+220,nonpun, performance , break ;performance ,5.73150281454e-05
+221,nonpun, flower  , flower ;growing;picked;pretty;weeds ,0.0289430636355
+222,nonpun, not , fair ;not;rules ,0.000275608302852
+223,nonpun, takes , heal ;time;wounds ,0.000145942258019
+224,nonpun, him ;john , sarah ,0.000834470854292
+225,nonpun, knows ;dictionary , word ,9.05674405651e-05
+226,nonpun, in ;come;door , room ,0.094750399612
+227,nonpun, just , idle ;sitting ,5.88840534606e-05
+228,nonpun, made  , made  ,0.0
+229,nonpun, none  , sense ,0.000131448844899
+230,nonpun, up , morning ;sun;up;woke ,0.0115791708028
+231,nonpun, meet ;pals , pen ,0.000492975780595
+232,nonpun, real ;diamond;just , not ,0.00184450889825
+233,nonpun, pair  , pair ;socks ,0.000229070022767
+234,nonpun, easily , prey ;mouse ,3.56808603887e-05
+235,nonpun, home , route ;home;take;way ,0.000721013851301
+236,pun, non , profit ;non;organization ,0.000658705168538
+237,pun, get , pie ;large ,1.9746737934e-05
+238,pun, recipes , need ;basis;trade ,0.00146336950858
+239,pun, or ;either;indecisive , rower ,0.188864153344
+240,pun, even , tears ;emotional;wedding ,0.000708393838187
+241,pun, pole ;flag , new ,0.000219030325468
+242,pun, meetings , board ;executive;meetings ,0.00630848322934
+243,pun, grease  , know;made ,9.80750223248e-06
+244,pun, sign ;prayed;trigonometry , tests ,0.00135815905938
+245,pun, not , principle ;just;school ,0.000526289825874
+246,pun, seedy  , stores ,6.6746202044e-07
+247,pun, hair ;pulled , magician ,0.000429055774146
+248,pun, naughty  , pine;sapling ,2.34147257679e-05
+249,pun, taught ;tricks , rope ,4.27540977662e-05
+250,pun, marks  , communism ,5.61056588407e-05
+251,pun, instinctively , high ;waves ,0.00232984450417
+252,pun, having , days ;school;time ,0.0136574206409
+253,pun, pros ;cons , jail ,0.000192327236874
+254,pun, expect , plain ;fancy;food ,8.96759351325e-05
+255,pun, damn  , saw;seen ,3.80749563957e-05
+256,pun, hurts  , slow ,7.40641764275e-06
+257,pun, great , roll ;movie ,0.00015915530799
+258,pun, caller ;name , put ,3.43069648867e-05
+259,pun, steel  , thieves ,0.000103715721121
+260,pun, die  , hair;thought ,0.000150184267365
+261,pun, paper , waste ;cardboard;paper ,0.000264503375239
+262,pun, feat  , fourteen;shoes ,1.69571753831e-05
+263,pun, allowed ;wanted , not ,0.000128693902001
+264,pun, pale  , start;those ,2.07726936396e-05
+265,pun, home , manner ;speaking ,0.000143896021676
+266,pun, suddenly , cash ;poker;tournament ,1.03093960503e-05
+267,pun, queen , rain ;wet ,0.00123178593463
+268,pun, herb , time ;work ,0.00735085811891
+269,pun, poor ;excuse , say ,0.00024392196583
+270,pun, paint , guilt ;people ,1.39304549166e-05
+271,pun, err  , err  ,0.0
+272,pun, sun  , got;only ,0.000391077579751
+273,pun, seas ;high;pirates , singers ,0.000415979619838
+274,pun, spark , what ;what's ,0.0232533074944
+275,pun, raiser ;fund , slash ,7.58152097867e-06
+276,pun, not  , ropes;tie ,0.00893961884933
+277,pun, trees , would ;ask ,0.00186184657415
+278,pun, grater ;cheddar;cheese;colby , school ,2.52797261431e-05
+279,pun, i  , see ,0.00726183339884
+280,pun, sell ;keep , whether ,0.000439461139894
+281,pun, cent  , rid;smell ,0.000111341893589
+282,pun, tried , coarse ;rough ,9.46066959357e-05
+283,pun, dear  , very ,3.84322814802e-05
+284,pun, be  , long ,0.0054340345993
+285,pun, not , break ;fast;run ,0.000285710257833
+286,pun, chef , flower ;girlfriend;valentine's ,0.00153437605933
+287,pun, fair ;toll , insisted ,0.000120493869308
+288,pun, just , heal ;injured ,7.71489457963e-05
+289,pun, him ;priest , song ,0.0016996103193
+290,pun, knows  , mother ,2.93581240314e-05
+291,pun, in ;stayed , sure ,0.02298826659
+292,pun, realized , idle ;time ,4.02467614817e-05
+293,pun, made  , want ,0.000664235868061
+294,pun, none  , church;opened ,0.000282604480824
+295,pun, morning ;up;woke , up ,0.00169475389171
+296,pun, meet ;glad , very ,0.000279351782962
+297,pun, real  , caught ,0.000878766709887
+298,pun, pair  , farmer ,7.17464024225e-05
+299,pun, prey ;birds , parish ,2.95334676721e-05
+300,pun, want , route ;take;way ,0.000862328122776
+301,depunned, non , profit ;non;organization ,0.000658705168538
+302,depunned, pie ;large;waistline , large ,2.57283525487e-05
+303,depunned, cake , need ;mothers;trade ,0.00198416093626
+304,depunned, or ;either;indecisive , customer ,0.183579341347
+305,depunned, even , tears ;wedding ,0.00012182208394
+306,depunned, pole  , new ,2.5905640304e-05
+307,depunned, board ;executive , galas ,0.00435845723484
+308,depunned, grease  , know;made ,9.80750223248e-06
+309,depunned, biology , sign ;prayed ,0.000763456197461
+310,depunned, principle ;just , not ,0.000174012502535
+311,depunned, seedy  , stores ,6.6746202044e-07
+312,depunned, professor , hair ;pulled ,0.000424814073667
+313,depunned, apparently , naughty ;boy ,2.28736929136e-05
+314,depunned, skateboard , taught ;tricks ,3.61690770648e-05
+315,depunned, marks ;math , out ,7.08276229328e-05
+316,depunned, high ;risks , takes ,0.0015879301015
+317,depunned, having , days ;school;time ,0.0136574206409
+318,depunned, pros ;cons , jail ,0.000192327236874
+319,depunned, expect , plain ;fancy;food ,8.96759351325e-05
+320,depunned, saw , damn ;horror ,4.39918557824e-05
+321,depunned, hurts  , slow ,7.40641764275e-06
+322,depunned, great , roll ;movie ,0.00015915530799
+323,depunned, caller ;name , put ,3.43069648867e-05
+324,depunned, steel  , muscles ,8.52640784002e-05
+325,depunned, die  , thought ,0.000131971003871
+326,depunned, fort , waste ;paper ,0.000283993597406
+327,depunned, fourteen;pants , feat  ,1.71526340037e-05
+328,depunned, allowed ;wanted , not ,0.000128693902001
+329,depunned, pale  , start;those ,2.07726936396e-05
+330,depunned, manor , manner ;speaking ,0.000187657143054
+331,depunned, suddenly , cash ;poker;tournament ,1.03093960503e-05
+332,depunned, long , rain ;wet ,0.00110664140827
+333,depunned, tomato , time ;work ,0.00750424408205
+334,depunned, poor ;excuse , say ,0.00024392196583
+335,depunned, guilt ;people , paint;purple ,1.45591012543e-05
+336,depunned, err  , err  ,0.0
+337,depunned, sun  , only;rest ,0.000363239242626
+338,depunned, seas ;high , singers ,7.07007930198e-05
+339,depunned, optometrist , what ;what's ,0.0243299319379
+340,depunned, raiser ;fund , turned ,6.67227299558e-06

@@ -1,0 +1,81 @@
+sentenceID	sentence	m1	m2	m1_phone	m2_phone	phoneDist	m1_length	m2_length	normalizedDist
+1	A circus truck driver refused to tow the #lion.	lion	line	L AY1 AH0 N	L AY1 N	1	4	3	0.25
+2	A dentist has to tell a patient the whole #tooth.	tooth	truth	T UW1 TH	T R UW1 TH	1	3	4	0.333333333
+3	"A handlebar mustache may look ridiculous, but symmetrical eyelashes are even #cilia."	cilia	sillier	S IY1 L Y AH0	S IH1 L IY0 ER0	3	5	5	0.6
+4	A man used money that he had inherited from his late father and put an addition on his house. It was an #heir extension.	heir	hair	EH1 R	HH EH1 R	1	2	3	0.5
+5	A men's wear store has opening and #clothing times.	clothing	closing	K L OW1 DH IH0 NG	K L OW1 Z IH0 NG	1	6	6	0.166666667
+6	A paramedic got a new job as a chauffeur: an #ambiance driver.	ambiance	ambulance	AE1 M B IY0 AH0 N S	AE1 M B Y AH0 L AH0 N S	3	7	9	0.428571429
+7	A pet store had a bird contest with no #perches necessary.	perches	purchase	P ER1 CH IH0 Z	P ER1 CH AH0 S	2	5	5	0.4
+8	A pun is its own #reword.	reword	reward	R IY0 W ER1 D	R IH0 W AO1 R D	3	5	6	0.6
+9	A rubber band pistol was confiscated from algebra class because it was a weapon of #math disruption.	math	mass	M AE1 TH	M AE1 S	1	3	3	0.333333333
+10	A thief who stole cutlery without leaving a clue was called the 'stainless #stealer.'	stealer	steeler	S T IY1 L ER0	S T IY1 L ER0	0	5	5	0
+11	"After getting pranked by his friends and getting hit with a basket, Aron knew they had a #wicker sense of humour."	wicker	wicked	W IH1 K ER0	W IH1 K AH0 D	2	4	5	0.5
+12	Aliens are lovable because they're so #spatial.	spatial	special	S P EY1 SH AH0 L	S P EH1 SH AH0 L	1	6	6	0.166666667
+13	An astronaut gets to take a Turn as a #whirled traveler.	whirled	world	W ER1 L D	W ER1 L D	0	4	4	0
+14	"As a young boy, Brutus' mother often cautioned him not to run with #Caesars."	caesars	scissors	S IY1 Z ER0 Z	S IH1 Z ER0 Z	1	5	5	0.2
+15	Astronauts like to do #launch.	launch	lunch	L AO1 N CH	L AH1 N CH	1	4	4	0.25
+16	At a flower show the first prize is often a #bloom ribbon.	bloom	blue	B L UW1 M	B L UW1	1	4	3	0.25
+17	"At a pet store: 'buy one dog, get one #flea'."	flea	free	F L IY1	F R IY1	1	3	3	0.333333333
+18	Be kind to your dentist because he has #fillings too.	fillings	feelings	F IH1 L IH0 NG Z	F IY1 L IH0 NG Z	1	6	6	0.166666667
+19	"Bell, Bark and Kennel, a novel by Ivan Pavlov, chronicles the birth of the #Salivation Army."	salivation	salvation	S AE1 L AH0 V EY2 SH AH0 N	S AE0 L V EY1 SH AH0 N	3	9	8	0.333333333
+20	Dentists don't like a hard day at the #orifice.	orifice	office	AO1 R AH0 F AH0 S	AO1 F AH0 S	2	6	4	0.333333333
+21	"Even though Ashley was blind and under arrest, she still had hope that someone would #braille her out."	braille	bail	B R EY1 L	B EY1 L	1	4	3	0.25
+22	"Even though he contributes either the X or Y chromosome, when a father chooses the sex of his child it's just a #sperm of the moment decision."	sperm	spur	S P ER1 M	S P ER1	1	4	3	0.25
+23	For children to eat without washing their hands would be a #grime.	grime	crime	G R AY1 M	K R AY1 M	1	4	4	0.25
+24	Grandparents faces are full of #epoch marks.	epoch	pock	EH1 P AH0 K	P AA1 K	2	4	3	0.5
+25	He labored so hard that he worked his fingers to the #bonus.	bonus	bones	B OW1 N AH0 S	B OW1 N Z	2	5	4	0.4
+26	I keep reading 'The Lord of the Rings' over and over. I guess it's just force of #hobbit.	hobbit	habit	HH AA1 B IH1 T	HH AE1 B AH0 T	2	5	5	0.4
+27	I like the latest horror movie so much that I've arranged a private #screaming.	screaming	screening	S K R IY1 M IH0 NG	S K R IY1 N IH0 NG	1	7	7	0.142857143
+28	I like to stay current with the electrifying adventures of Sherlock #ohms.	ohms	Holmes	OW1 M Z	HH OW1 M Z	1	3	4	0.333333333
+29	I need to do my philosophy homework but I just #Kant.	kant	can't	K AE1 N T	K AE1 N T	0	4	4	0
+30	If a barista is not allowed to make espresso she will lose her #tamper.	tamper	temper	T AE1 M P ER0	T EH1 M P ER0	1	5	5	0.2
+31	If you spend too much time in the coffee shop you'll be #latte for work.	latte	late	L AA1 T EY2	L EY1 T	2	4	3	0.5
+32	If you write bad things about me I am #libel to sue you.	libel	liable	L AY1 B AH0 L	L AY1 AH0 B AH0 L	1	5	6	0.2
+33	"In the novel, there is an unexpected secret meeting of the lovers. It is a plot #tryst."	tryst	twist	T R IH1 S T	T W IH1 S T	1	5	5	0.2
+34	Inflammatory talk is often seen as #propane language.	propane	profane	P R OW1 P EY2 N	P R OW0 F EY1 N	3	6	6	0.5
+35	"John plans to retire in the spring and, like the trees around us, will be #leafing."	leafing	leaving	L IY1 F IH0 NG	L IY1 V IH0 NG	1	5	5	0.2
+36	"Just in time for Thanksgiving a blockbuster movie about sweet potatoes, 'The Silence of the #Yams'."	yams	Lambs	Y AE1 M Z	L AE1 M Z	1	4	4	0.25
+37	"Last night, I kept dreaming that I had written Lord of the Rings. The wife said I'd been #Tolkien in my sleep."	tolkien	talking	T OW1 L K AH0 N	T AO1 K IH0 NG	4	6	5	0.666666667
+38	Many people are strongly attracted to a #magnate.	magnate	magnet	M AE1 G N AH0 T	M AE1 G N AH0 T	0	6	6	0
+39	Many people think that Edgar Allan Poe was a #raven madman.	raven	raving	R EY1 V AH0 N	R EY1 V IH0 NG	2	5	5	0.4
+40	"My battery had an #alkaline problem, so it went to AA meetings."	alkaline	alcohol	AE1 L K AH0 L AY2 N	AE1 L K AH0 HH AA2 L	3	7	7	0.428571429
+41	My boss does not tolerate any beards or mustaches. He is a real #shave driver.	shave	slave	SH EY1 V	S L EY1 V	2	3	4	0.666666667
+42	My heart starts #Aiken when Clay sings.	aiken	aching	EY1 K IH0 N	EY1 K IH0 NG	1	4	4	0.25
+43	My neighbor's sprinkler is a constant #irrigation to me.	irrigation	irritation	IH2 R AH0 G EY1 SH AH0 N	IH2 R IH0 T EY1 SH AH0 N	2	8	8	0.25
+44	My two uncles bet who would get married first. Then one upped the #auntie.	auntie	ante	AE1 N T IY0	AE1 N T IY0	0	4	4	0
+45	New years resolution for the bankrupt gardener was to forget the past and rely on the #fuchsia.	fuchsia	future	F Y UW0 SH AA1	F Y UW1 CH ER0	3	5	5	0.6
+46	On organic farms they #till it like it is.	till	tell	T IH1 L	T EH1 L	1	3	3	0.333333333
+47	"One real estate agent said to another, ""#House it going?"""	house	how's	HH AW1 S	HH AW1 Z	1	3	3	0.333333333
+48	People have a happy time vacationing in Ireland because they are walking on #Eire.	eire	fire	AY1 ER0	F AY1 ER0	1	2	3	0.5
+49	People in Switzerland can't learn to ski without a lot of #Alp.	alp	help	AE1 L P	HH EH1 L P	2	3	4	0.666666667
+50	Scarecrows are always #garden their patch.	garden	guarding	G AA1 R D AH0 N	G AA1 R D IH0 NG	2	6	6	0.333333333
+51	Selling coffee has its perks for those who have #bean so lucky.	bean	been	B IY1 N	B IH1 N	1	3	3	0.333333333
+52	"Sign on a broken perfume bottle, ""Out of #odor""."	odor	order	OW1 D ER0	AO1 R D ER0	2	3	4	0.666666667
+53	Sign: 'Please turn out the lights. Thanks a #watt.'	watt	lot	W AA1 T	L AA1 T	1	3	3	0.333333333
+54	Some childen are often on their #pest behavior.	pest	best	P EH1 S T	B EH1 S T	1	4	4	0.25
+55	Some people have to get up for work at the #crank of dawn.	crank	crack	K R AE1 NG K	K R AE1 K	1	5	4	0.2
+56	Some planes are so cramped that passengers suffer jet #leg.	leg	lag	L EH1 G	L AE1 G	1	3	3	0.333333333
+57	Ten years without brushing causes horrible tooth #decade.	decade	decay	D EH0 K EY1 D	D AH0 K EY1	2	5	4	0.4
+58	The actor was never quite right after he retired. He had Post #Dramatic Stress Disorder.	dramatic	traumatic	D R AH0 M AE1 T IH0 K	T R AO0 M AE1 T IH0 K	2	8	8	0.25
+59	The English Teacher felt odd after being fired: it was post #grammatic stress disorder.	grammatic	traumatic	G R AH0 M AE1 T AH0 K	T R AO0 M AE1 T IH0 K	3	8	8	0.375
+60	The garden club visited the nursery and found themselves in a #hosta environment.	hosta	hostile	HH AA1 S T AH0	HH AA1 S T AH0 L	1	5	6	0.2
+61	The Irish should be rich because their capital is always #Dublin.	dublin	doubling	D AH1 B L IH0 N	D AH1 B AH0 L IH0 NG	2	6	7	0.333333333
+62	The optical scientist who stole his colleague's bifocals was sentenced to three years in a state #prism.	prism	prison	P R IH1 Z AH0 M	P R IH1 Z AH0 N	1	6	6	0.166666667
+63	The plumber explained that the problem in my kitchen was just water under the #fridge.	fridge	bridge	F R IH1 JH	B R IH1 JH	1	4	4	0.25
+64	The robber baron was a commander in #thief.	thief	chief	TH IY1 F	CH IY1 F	1	3	3	0.333333333
+65	The satellite went into orbit on January 1st causing a new year's #revolution.	revolution	resolution	R EH2 V AH0 L UW1 SH AH0 N	R EH2 Z AH0 L UW1 SH AH0 N	1	9	9	0.111111111
+66	The twin girls rented flora to offices. They called their business 'Sisterhood of the Traveling #Plants'.	plants	Pants	P L AE1 N T S	P AE1 N T S	1	6	5	0.166666667
+67	There was a dentist who was convicted of #incisor trading.	incisor	insider	IH0 N S AY1 Z ER0	IH0 N S AY1 D ER0	1	6	6	0.166666667
+68	They were the quietest burglars in the history of New York City. The newspapers called them 'Criminal #Mimes.'	mimes	minds	M AY1 M Z	M AY1 N D Z	2	4	5	0.5
+69	Tinker Bell was arrested for being suspiciously high. But in the end she was only fined for #glittering.	glittering	littering	G L IH1 T ER0 IH0 NG	L IH1 T ER0 IH0 NG	1	7	6	0.142857143
+70	To become a pilot requires a good #altitude.	altitude	attitude	AE1 L T AH0 T UW2 D	AE1 T AH0 T UW2 D	1	7	6	0.142857143
+71	To some Christmas is about other people's #presence.	presence	presents	P R EH1 Z AH0 N S	P R EH1 Z AH0 N T S	1	7	8	0.142857143
+72	Vampires are always looking for their #necks victim.	necks	next	N EH1 K S	N EH1 K S T	1	4	5	0.25
+73	What does a villain call his silverware? Weapons of mass #digestion.	digestion	destruction	D AY0 JH EH1 S CH AH0 N	D IH0 S T R AH1 K SH AH0 N	7	8	10	0.875
+74	What would be the brand name of the highest quality copy paper money could buy? The #ream of the crop!	ream	cream	R IY1 M	K R IY1 M	1	3	4	0.333333333
+75	What you #seize is what you get.	seize	see	S IY1 Z	S IY1	1	3	2	0.333333333
+76	"When she made Mario Puzo's books required reading for her class, she made him an #author they couldn't refuse."	author	offer	AO1 TH ER0	AO1 F ER0	1	3	3	0.333333333
+77	"When the crop was destroyed, there was no more cranberry #source."	source	sauce	S AO1 R S	S AO1 S	1	4	3	0.25
+78	When you use glue in class it #paste to be careful.	paste	pays	P EY1 S T	P EY1 Z	2	4	3	0.5
+79	Why are Italians so good at making coffee? Because they really know how to #espresso themselves.	espresso	express	EH2 S P R EH1 S OW0	IH0 K S P R EH1 S	3	7	7	0.428571429
+80	Women who wear $200.00 perfume obviously are known to have no common #scents.	scents	sense	S EH1 N T S	S EH1 N S	1	5	4	0.2
