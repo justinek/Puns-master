@@ -1,6 +1,6 @@
 import sys, re, string
 
-f = open("../Materials/wordPairs_byCondition.csv", "r")
+f = open("../Materials/wordPairs_byCondition_exp2.csv", "r")
 
 currentCondition = 0
 firstline = 0
