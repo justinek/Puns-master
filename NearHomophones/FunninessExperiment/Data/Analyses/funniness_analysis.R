@@ -70,16 +70,26 @@ ggplot(splithalf, aes(x=funniness1, y=funniness2, color=sentenceType, shape=vers
   opts(title="Split half correlation of funniness for all sentences")
 
 
+sentences.puns <- subset(sentences, sentenceType == "pun" & version=="a")
+
 letterDist <- read.delim("../../../Materials/nearPuns_letterDist.txt")
-sentences$letterDist <- letterDist$letterDist
-
-with(sentences, cor.test(rating, letterDist))
-
+sentences.puns$letterDist <- letterDist$letterDist
 
 phoneDist <- read.delim("../../../Materials/nearPuns_phoneDist.txt")
-sentences$phoneDist <- phoneDist$phoneDist
-sentences$phoneDist_norm <- phoneDist$normalizedDist
+sentences.puns$phoneDist <- phoneDist$phoneDist
+sentences.puns$phoneDist_norm <- phoneDist$normalizedDist
 
-with(sentences, cor.test(rating, phoneDist))
-with(sentences, cor.test(rating, phoneDist_norm))
+with(sentences.puns, cor.test(rating, phoneDist))
+with(sentences.puns, cor.test(rating, phoneDist_norm))
+with(sentences.puns, cor.test(rating, letterDist))
 
+sentences.modifiedPuns <- subset(sentences, sentenceType == "pun" & version=="b")
+
+cor.test(sentences.puns$rating - sentences.modifiedPuns$rating, sentences.puns$phoneDist)
+cor.test(sentences.puns$rating - sentences.modifiedPuns$rating, sentences.puns$letterDist)
+cor.test(sentences.modifiedPuns$rating, sentences.puns$letterDist)
+cor.test(sentences.modifiedPuns$rating, sentences.puns$phoneDist)
+
+sentences.originalSet <- subset(sentences, (sentenceType == "pun" & version=="a") | (sentenceType =="nonpun"))
+# stores the original sentences (the ones we're interested in) and their ratings in a csv
+write.csv(sentences.originalSet, "../Materials/sentences_orig_withRatings.csv")

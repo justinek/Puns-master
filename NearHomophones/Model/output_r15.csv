@@ -1,0 +1,241 @@
+sentenceID,sentenceType,sentence,m1,m2,rating,balance,focusKL,focusMinKL
+1,pun,A circus truck driver refused to tow the lion.,lion,line,0.380756856,0.17943177,8.780215106,1.301202079
+2,pun,A dentist has to tell a patient the whole tooth.,tooth,truth,1.409064865,0.018563229,9.476201259,1.641811876
+3,pun,"A handlebar mustache may look ridiculous, but symmetrical eyelashes are even cilia.",cilia,sillier,1.124470345,3.35E-06,8.677839496,1.290899335
+4,pun,A man used money that he had inherited from his late father and put an addition on his house. It was an heir extension.,heir,hair,1.230159139,1.34E-06,9.761481946,1.786220117
+5,pun,A men's wear store has opening and clothing times.,clothing,closing,0.439348245,0.413615287,10.37897626,2.109684808
+6,pun,A paramedic got a new job as a chauffeur: an ambiance driver.,ambiance,ambulance,1.111790574,0.001252522,8.817975335,1.350679021
+7,pun,A pet store had a bird contest with no perches necessary.,perches,purchase,1.521133043,0.299319377,9.469834968,1.67832633
+8,pun,A pun is its own reword.,reword,reward,0.994169407,0.171767116,7.621321403,0.75531552
+9,pun,A rubber band pistol was confiscated from algebra class because it was a weapon of math disruption.,math,mass,1.970024697,0.038128675,9.543900505,1.637299035
+10,pun,A thief who stole cutlery without leaving a clue was called the 'stainless stealer.',stealer,steeler,1.458079566,1.43E-08,7.974510398,0.915718536
+11,pun,"After getting pranked by his friends and getting hit with a basket, Aron knew they had a wicker sense of humor.",wicker,wicked,0.579805283,0.301784326,9.533771071,1.673214311
+12,pun,Aliens are lovable because they're so spatial.,spatial,special,0.923865203,0.027686414,7.881288026,0.884434982
+13,pun,An astronaut gets to take a turn as a whirled traveler.,whirled,world,0.241169362,0.526130925,9.079618549,1.484979722
+14,pun,"As a young boy, Brutus' mother often cautioned him not to run with Caesars.",caesars,scissors,1.172148634,0.235702251,10.03187328,1.989431986
+15,pun,Astronauts like to do launch.,launch,lunch,1.074441443,2.86E-06,8.921291454,1.333250171
+16,pun,At a flower show the first prize is often a bloom ribbon.,bloom,blue,0.070176069,0.259235314,8.398733871,1.141903474
+17,pun,"At a pet store: 'buy one dog, get one flea'.",flea,free,1.350978202,0.687142022,8.876079546,1.359359259
+18,pun,Be kind to your dentist because he has fillings too.,fillings,feelings,1.415691733,0.045360088,8.811641481,1.309808741
+19,pun,"Bell, Bark and Kennel, a novel by Ivan Pavlov, chronicles the birth of the Salivation Army.",salivation,salvation,-0.007576218,0.000834617,7.932806936,0.910174286
+20,pun,Dentists don't like a hard day at the orifice.,orifice,office,1.227148257,0.640524149,7.98624608,0.940796729
+21,pun,"Even though Ashley was blind and under arrest, she still had hope that someone would braille her out.",braille,bail,1.38187117,0.001192672,10.87994974,2.429028983
+22,pun,"Even though he contributes either the X or Y chromosome, when a father chooses the sex of his child it's just a sperm of the moment decision.",sperm,spur,1.092832334,4.57E-08,11.73870635,2.819981812
+23,pun,For children to eat without washing their hands would be a grime.,grime,crime,0.727533023,0.020984005,8.428161763,1.163148319
+24,pun,Grandparents faces are full of epoch marks.,epoch,pock,0.140680802,0.000699845,8.707872888,1.310443826
+25,pun,He labored so hard that he worked his fingers to the bonus.,bonus,bones,0.948748075,0.001179794,9.316822994,1.611925782
+26,pun,I keep reading 'The Lord of the Rings' over and over. I guess it's just force of hobbit.,hobbit,habit,1.745350459,0.535171393,9.244851374,1.546811378
+27,pun,I like the latest horror movie so much that I've arranged a private screaming.,screaming,screening,1.190261912,0.007156542,8.228323711,1.05473897
+28,pun,I like to stay current with the electrifying adventures of Sherlock ohms.,ohms,Holmes,1.259126077,0.001820438,10.1777684,2.078813449
+29,pun,I need to do my philosophy homework but I just Kant.,kant,can't,1.294552671,2.06E-07,7.71523225,0.799434177
+30,pun,If a barista is not allowed to make espresso she will lose her tamper.,tamper,temper,0.543439401,0.494615559,8.000716167,0.947491414
+31,pun,If you spend too much time in the coffee shop you'll be latte for work.,latte,late,1.484987006,0.677111313,9.658688436,1.735345624
+32,pun,If you write bad things about me I am libel to sue you.,libel,liable,0.472188322,1.24E-05,7.73219154,0.807486591
+33,pun,"In the novel, there is an unexpected secret meeting of the lovers. It is a plot tryst.",tryst,twist,1.046974297,0.474008157,10.17909433,2.063227385
+34,pun,Inflammatory talk is often seen as propane language.,propane,profane,1.144711775,0.018812922,8.890483561,1.381855344
+35,pun,"John plans to retire in the spring and, like the trees around us, will be leafing.",leafing,leaving,1.370253755,0.562051839,9.294125864,1.565230028
+36,pun,"Just in time for Thanksgiving: a blockbuster movie about sweet potatoes, called 'The Silence of the Yams'.",yams,Lambs,1.360715486,1.12E-05,9.613326594,1.702949385
+37,pun,"Last night, I kept dreaming that I had written Lord of the Rings. The wife said I'd been Tolkien in my sleep.",tolkien,talking,1.60390418,8.17E-06,10.38175349,2.131779628
+38,pun,Many people are strongly attracted to a magnate.,magnate,magnet,0.710418481,0.000712774,7.586506323,0.736559368
+39,pun,Many people think that Edgar Allan Poe was a raven madman.,raven,raving,1.315302849,2.79E-05,8.700026584,1.291547035
+40,pun,"My battery had an alkaline problem, so it went to AA meetings.",alkaline,alcohol,1.927418084,0.242614641,9.550166336,1.697688399
+41,pun,My boss does not tolerate any beards or mustaches. He is a real shave driver.,shave,slave,1.527897984,0.003355082,9.474811667,1.668429139
+42,pun,My heart starts Aiken when Clay sings.,aiken,aching,1.064487831,4.93E-09,8.88462556,1.372135528
+43,pun,My neighbor's sprinkler is a constant irrigation to me.,irrigation,irritation,1.308473522,0.000941775,8.922431811,1.347329229
+44,pun,My two uncles bet who would get married first. Then one upped the auntie.,auntie,ante,1.206555338,1.75E-05,9.81431785,1.796698392
+45,pun,New years resolution for the bankrupt gardener was to forget the past and rely on the fuchsia.,fuchsia,future,1.475209288,0.002481402,10.60152792,2.246103479
+46,pun,On organic farms they till it like it is.,till,tell,0.777286691,0.004686249,8.864143968,1.352097154
+47,pun,"One real estate agent said to another, House it going?",house,how's,1.541837622,3.80E-08,8.989928941,1.422350337
+48,pun,People have a happy time vacationing in Ireland because they are walking on Eire.,eire,fire,0.857645622,3.45E-05,7.881049917,0.886253924
+49,pun,People in Switzerland can't learn to ski without a lot of Alp.,alp,help,1.317687287,0.220765582,10.02532067,1.900006957
+50,pun,Scarecrows are always garden their patch.,garden,guarding,1.210348484,2.70E-09,8.193453788,1.027788532
+51,pun,Selling coffee has its perks for those who have bean so lucky.,bean,been,0.480044239,0.071030342,9.05496975,1.422756439
+52,pun,"Sign on a broken perfume bottle, Out of odor.",odor,order,1.858620781,0.278552957,8.563911452,1.20241679
+53,pun,Sign: 'Please turn out the lights. Thanks a watt.',watt,lot,1.786203099,0.033213322,9.330629855,1.552188955
+54,pun,Some children are often on their pest behavior.,pest,best,1.481582201,0.171102361,7.902894978,0.897294732
+55,pun,Some people have to get up for work at the crank of dawn.,crank,crack,0.06015096,0.247324928,8.139498405,1.007885671
+56,pun,Some planes are so cramped that passengers suffer jet leg.,leg,lag,0.783376648,0.006314966,9.866611623,1.917263601
+57,pun,Ten years without brushing causes horrible tooth decade.,decade,decay,0.682335121,0.007446206,9.924787659,1.871720236
+58,pun,The actor was never quite right after he retired. He had Post Dramatic Stress Disorder.,dramatic,traumatic,1.880723344,0.005650499,9.157482959,1.52189676
+59,pun,The English Teacher felt odd after being fired: it was post grammatic stress disorder.,grammatic,traumatic,1.70908321,2.47E-07,11.99568189,2.889551365
+60,pun,The garden club visited the nursery and found themselves in a hosta environment.,hosta,hostile,1.050240473,0.038392566,8.552535885,1.225499723
+61,pun,The Irish should be rich because their capital is always Dublin.,dublin,doubling,1.902817654,8.94E-06,8.9130198,1.356685816
+62,pun,The optical scientist who stole his colleague's bifocals was sentenced to three years in a state prism.,prism,prison,1.275526697,0.487089717,10.93196546,2.422713909
+63,pun,The plumber explained that the problem in my kitchen was just water under the fridge.,fridge,bridge,0.461302229,0.003790082,9.020420077,1.424820176
+64,pun,The robber baron was a commander in thief.,thief,chief,0.964814215,0.571988945,8.877675196,1.374545615
+65,pun,The satellite went into orbit on January 1st causing a new year's revolution.,revolution,resolution,0.41699879,0.002836525,8.445683356,1.161606335
+66,pun,The twin girls rented flora to offices. They called their business 'Sisterhood of the Traveling Plants'.,plants,Pants,0.984036377,8.04E-11,9.35000651,1.563546359
+67,pun,There was a dentist who was convicted of incisor trading.,incisor,insider,1.187487178,0.081303144,9.986206476,1.916521539
+68,pun,They were the quietest burglars in the history of New York City. The newspapers called them 'Criminal Mimes.',mimes,minds,1.225287607,0.281269004,9.271049256,1.557999146
+69,pun,Tinker Bell was arrested for being suspiciously high. But in the end she was only fined for glittering.,glittering,littering,1.593859677,1.69E-06,8.823555739,1.342432239
+70,pun,To become a pilot requires a good altitude.,altitude,attitude,1.348130271,0.005342903,8.660697358,1.233882493
+71,pun,To some Christmas is about other people's presence.,presence,presents,0.317185433,1.61E-06,8.108095058,1.026263187
+72,pun,Vampires are always looking for their necks victim.,necks,next,1.370012196,0.04438049,8.825961104,1.336118804
+73,pun,What does a villain call his silverware? Weapons of mass digestion.,digestion,destruction,1.104916044,0.441082387,10.71336012,2.372904477
+74,pun,What would be the brand name of the highest quality copy paper money could buy? The ream of the crop!,ream,cream,1.34860201,0.064504814,8.534086263,1.217933893
+75,pun,What you seize is what you get.,seize,see,0.272346059,0.51449318,7.847579996,0.854715672
+76,pun,"When she made Mario Puzo's books required reading for her class, she made him an author they couldn't refuse.",author,offer,1.100908947,1.04E-05,9.715621895,1.73937323
+77,pun,"When the crop was destroyed, there was no more cranberry source.",source,sauce,-0.303356781,0.009969124,8.976465624,1.450233991
+78,pun,When you use glue in class it paste to be careful.,paste,pays,0.66651661,0.00069736,7.752496436,0.818900089
+79,pun,Why are Italians so good at making coffee? Because they really know how to espresso themselves.,espresso,express,1.23532919,0.605663255,8.692311404,1.274938716
+80,pun,Women who wear $200.00 perfume obviously are known to have no common scents.,scents,sense,1.718025966,0.123925621,9.448347546,1.694826429
+161,nonpun,The owner takes the lion's share of profits from the company.,lion,line,-0.455132909,6.13E-06,10.73400046,2.456635263
+162,nonpun,A dentist examines one tooth at a time.,tooth,truth,-0.453112403,1.39E-05,8.655472614,1.226651914
+163,nonpun,Cilia are hairlike projections on the surface of some cells.,cilia,sillier,-0.634945155,1.63E-07,7.854270657,0.87082677
+164,nonpun,Prince William is heir to the British throne.,heir,hair,-0.634945155,1.36E-06,8.264942,1.052643499
+165,nonpun,Food and clothing are basic necessities.,clothing,closing,-0.634945155,1.91E-09,7.869081369,0.878143354
+166,nonpun,The ambiance in that hotel is one of warmth and charm.,ambiance,ambulance,-0.634945155,0.006791994,9.214649033,1.474520498
+167,nonpun,Pigeons use the sunny sides of roofs as perches.,perches,purchase,-0.634945155,0.000182556,8.587234167,1.229322403
+168,nonpun,"The mayor reworded his speech, because his advisors told him to do so.",reword,reward,-0.500085971,0.163448253,8.031787124,0.957368384
+169,nonpun,I have a math exam today at school.,math,mass,-0.634945155,0.030171987,8.805800183,1.300821865
+170,nonpun,He is a stealer of hearts.,stealer,steeler,-0.487410236,4.67E-08,7.508625529,0.697453682
+171,nonpun,That chair is made of wicker.,wicker,wicked,-0.621918001,6.11E-06,7.987445793,0.92262437
+172,nonpun,She has good spatial skills; she knows how to build a house from plans on paper.,spatial,special,-0.335896633,0.001551428,9.202920882,1.586700139
+173,nonpun,Dancers whirled on the stage.,whirled,world,-0.717743052,7.26E-05,7.859279165,0.871093436
+174,nonpun,The owner behaves like a little Caesar with his employees.,caesars,scissors,0.102025091,0.000423735,7.895819018,0.892249117
+175,nonpun,The space launch took place this morning.,launch,lunch,-0.612738008,2.55E-09,8.36937273,1.110910699
+176,nonpun,Our apple tree was in bloom last week. ,bloom,blue,-0.653553325,4.35E-05,8.280216399,1.059134535
+177,nonpun,His dog has fleas.,flea,free,-0.596721638,2.98E-07,8.894891753,1.338196748
+178,nonpun,The dentist replaced two fillings I had lost. ,fillings,feelings,-0.596018808,0.000500007,8.114839863,0.997791722
+179,nonpun,The dog's salivation was all over the carpet.,salivation,salvation,-0.492134352,0.001755455,7.643495933,0.764897434
+180,nonpun,The mouth is an orifice.,orifice,office,-0.541955049,0.009309106,8.77056929,1.265980173
+181,nonpun,He reads braille with his fingertips.,braille,bail,-0.751547503,1.03E-08,9.271160737,1.539426178
+182,nonpun,He decided to donate his sperm.,sperm,spur,-0.357075948,5.54E-07,7.879648294,0.877521088
+183,nonpun,The city's buildings are covered with grime.,grime,crime,-0.751547503,7.28E-05,8.125073961,1.015263679
+184,nonpun,The end of the nuclear arms race began a new epoch of peace and cooperation.,epoch,pock,-0.295077909,3.26E-11,8.116775904,1.002012556
+185,nonpun,Our company pays everyone a bonus at the end of the year.,bonus,bones,-0.621799769,2.36E-09,9.7814528,1.762741662
+186,nonpun,My favorite creatures in Lord of the Rings are hobbits.,hobbit,habit,-0.488988076,0.006237175,8.776129039,1.332927465
+187,nonpun,She started screaming when the man pulled out a knife.,screaming,screening,-0.751547503,1.14E-07,7.67772302,0.782169988
+188,nonpun,Ohms are used to measure electrical resistance.,ohms,Holmes,-0.751547503,7.37E-05,8.282036337,1.076979323
+189,nonpun,Kant was a German philosopher.,kant,can't,-0.554548857,5.14E-09,8.099335839,0.986093418
+190,nonpun,The barista used a tamper to press down the coffee.,tamper,temper,-0.651986328,0.001152525,8.037656324,0.963139204
+191,nonpun,I like a latte in the morning to wake me up.,latte,late,-0.58161247,0.012022046,7.764453586,0.8259151
+192,nonpun,The tabloid newspaper libeled a movie star.,libel,liable,-0.489955629,3.88E-05,7.581426972,0.733705008
+193,nonpun,The lovers go away to the country for weekend trysts.,tryst,twist,-0.311270199,0.002333191,7.719376411,0.802277231
+194,nonpun,He burns propane gas in his stove.,propane,profane,-0.407310806,9.93E-11,9.471133817,1.625417868
+195,nonpun,He saw her leafing through the pages of an old book.,leafing,leaving,-0.37567882,0.175495817,7.818686411,0.851574223
+196,nonpun,Some people eat yams with their turkey.,yams,Lambs,-0.503714687,2.79E-07,8.898226357,1.357352944
+197,nonpun,Tolkien wrote Lord of the Rings.,tolkien,talking,-0.701932653,2.00E-08,8.119628063,1.001423371
+198,nonpun,She is a coal and iron magnate from Australia.,magnate,magnet,-0.526643675,7.88E-05,8.08133359,1.002891364
+199,nonpun,A raven is a large black bird.,raven,raving,-0.622599591,6.96E-07,8.247333254,1.037979416
+200,nonpun,He tried out an alkaline diet to maintain the body's ideal pH balance.,alkaline,alcohol,0.143351114,4.94E-06,8.72948517,1.295940625
+201,nonpun,Your beard is growing too long; you need a shave.,shave,slave,-0.458483042,2.05E-07,8.729821217,1.251733677
+202,nonpun,Clay Aiken rose to fame after he won American Idol. ,aiken,aching,-0.455673986,8.43E-10,9.272573529,1.49357419
+203,nonpun,Irrigation is the artificial application of water to the land or soil,irrigation,irritation,-0.580332876,5.25E-07,8.914802192,1.353853934
+204,nonpun,My Auntie Betty is my mother's sister.,auntie,ante,-0.560055615,1.04E-09,8.44624314,1.148804601
+205,nonpun,Her favorite flower is the fuchsia.,fuchsia,future,-0.47656888,0.608892836,7.587245263,0.736227919
+206,nonpun,Farmers till the soil in the springtime. ,till,tell,-0.549682962,9.68E-08,8.889002318,1.356127494
+207,nonpun,Our house is located on the corner.,house,how's,-0.550151007,2.20E-13,7.737629882,0.813114252
+208,nonpun,Eire is a former name for the Republic of Ireland.,eire,fire,-0.526878421,7.30E-07,7.871411342,0.878365354
+209,nonpun,An alp is a very high mountain.,alp,help,-0.479845982,0.054722962,8.145038847,0.994902859
+210,nonpun,We have a small flower garden behind our house. ,garden,guarding,-0.488383134,1.22E-13,8.94444679,1.390650851
+211,nonpun,I like to eat lima beans and black beans.,bean,been,-0.642220625,5.54E-09,9.003524682,1.401263096
+212,nonpun,The odor of old fish filled the air.,odor,order,-0.535374078,0.022140404,8.509294641,1.169574783
+213,nonpun,My desk lamp uses a 60-watt light bulb.,watt,lot,-0.642220625,8.73E-05,10.83233614,2.219909581
+214,nonpun,"Rats, mice, and flies are regarded as pests.",pest,best,-0.642220625,7.61E-10,10.81731616,2.269051079
+215,nonpun,He is often a crank in the morning.,crank,crack,-0.388943645,0.000409532,7.505949145,0.696136734
+216,nonpun,Runners need strong legs.,leg,lag,-0.642220625,1.87E-10,7.818907581,0.848907117
+217,nonpun,A decade is a pretty long time.,decade,decay,-0.571363996,3.75E-08,7.562916169,0.723901326
+218,nonpun,He has written dramatic works for the stage. ,dramatic,traumatic,-0.642220625,1.03E-09,8.458133835,1.143386399
+219,nonpun,That sentence has an unusual grammatic structure.,grammatic,traumatic,-0.600723194,0.000129333,8.712839679,1.27806933
+220,nonpun,The hosta is a beautiful plant.,hosta,hostile,-0.619461001,0.013689334,7.633278125,0.759879363
+221,nonpun,Dublin is the capital of Ireland.,dublin,doubling,-0.539770603,2.98E-07,9.159541088,1.439845536
+222,nonpun,Prisms can be used to reflect and split light.,prism,prison,-0.572434308,0.000313729,8.492455743,1.173444664
+223,nonpun,I put the milk and meat in the fridge.,fridge,bridge,-0.47229551,2.66E-07,8.226807754,1.05469956
+224,nonpun,A thief stole my luggage at the airport.,thief,chief,-0.572434308,8.59E-08,8.618198756,1.217466076
+225,nonpun,The Industrial Revolution changed how people worked and lived.,revolution,resolution,-0.539770603,1.68E-13,8.002423867,0.939342984
+226,nonpun,Humans and animals could not live without plants.,plants,Pants,-0.480440207,7.79E-11,8.820238339,1.351738183
+227,nonpun,Rats tore into the meat with their strong incisors.,incisor,insider,-0.539770603,0.000313386,7.855256718,0.870921831
+228,nonpun,The mimes were very skilled at imitating people.,mimes,minds,-0.319622141,0.008083489,8.974628913,1.377543849
+229,nonpun,Her jewels were glittering in the sun.,glittering,littering,-0.408094299,2.27E-09,8.723481081,1.286091513
+230,nonpun,"Our airplane is flying at an altitude of 35,000 feet.",altitude,attitude,-0.519903017,1.77E-08,9.473865353,1.620270861
+231,nonpun,The general has great presence.,presence,presents,-0.386211571,8.41E-07,7.84842363,0.868337246
+232,nonpun,She wore a scarf around her neck.,necks,next,-0.650416255,7.58E-05,8.41664876,1.130416383
+233,nonpun,She has good digestion; she can eat anything!,digestion,destruction,-0.160979291,4.24E-07,8.38776863,1.105411681
+234,nonpun,Our office uses 20 reams of paper each week.,ream,cream,-0.520712804,7.02E-07,8.930378655,1.373923352
+235,nonpun,I seized his arm so he couldn't run away.,seize,see,-0.429209543,1.07E-05,7.537277928,0.711764491
+236,nonpun,Cervantes is one of the most famous authors in the Spanish language.,author,offer,-0.597250523,2.98E-07,8.154969773,1.016570505
+237,nonpun,The source of our difficulties is not having enough money.,source,sauce,-0.379013088,2.12E-07,7.8009408,0.843123464
+238,nonpun,She used paste to put pictures in her notebook.,paste,pays,-0.538179324,1.80E-05,7.632651939,0.759811954
+239,nonpun,I like an espresso after dinner.,espresso,express,-0.468987105,0.340264786,7.722727013,0.805039234
+240,nonpun,The scent of flowers relaxes me.,scents,sense,-0.585070265,0.000156776,7.725483657,0.796886974
+241,nonpun,My notebook has thin blue lines printed on each page.,line,lion,-0.55706029,2.42E-12,10.11273288,1.910372399
+242,nonpun,She always speaks the truth.,truth,tooth,-0.458201266,5.61E-11,7.554833226,0.720422861
+243,nonpun,"When he drinks wine, he starts acting sillier.",sillier,cilia,-0.24786394,5.19E-05,8.059675542,0.973769748
+244,nonpun,I found a cat hair in my food.,hair,heir,-0.391644512,9.17E-08,7.968714843,0.924857703
+245,nonpun,The chairman made some closing remarks at the end of the meeting.,closing,clothing,-0.61098279,3.45E-09,9.009119992,1.397284162
+246,nonpun,An ambulance came to the car accident in two minutes.,ambulance,ambiance,-0.61098279,1.07E-14,9.075560456,1.452642971
+247,nonpun,She decided to purchase a new car.,purchase,perches,-0.580332876,1.78E-14,8.834833202,1.325398823
+248,nonpun,She gave herself a reward for working hard all year.,reward,reword,-0.427551352,2.00E-13,7.870554204,0.876196469
+249,nonpun,A mass of people were in the town square for the concert.,mass,math,-0.567432943,1.86E-13,9.176217555,1.529514281
+250,nonpun,A steeler is something that is covered in steel.,steeler,stealer,-0.510943876,0.000295422,7.806598012,0.844662875
+251,nonpun,A wicked man took the child from his parents.,wicked,wicker,-0.642220625,1.15E-09,7.575636197,0.73152532
+252,nonpun,A birthday party is a special occasion.,special,spatial,-0.642220625,9.12E-14,8.508885028,1.183155915
+253,nonpun,It is possible to fly around the world in an airplane. ,world,whirled,-0.376506979,3.07E-13,8.065444621,1.005956077
+254,nonpun,Hairdressers use scissors to cut people's hair.,scissors,caesars,-0.642220625,3.36E-15,9.906230061,1.813107827
+255,nonpun,I had a sandwich for lunch.,lunch,launch,-0.642220625,1.51E-10,8.19921464,1.008764035
+256,nonpun,Blue and yellow make green.,blue,bloom,-0.642220625,8.37E-11,7.834286965,0.858534982
+257,nonpun,"After twenty years in prison, he was a free man.",free,flea,-0.642220625,7.09E-13,8.123648601,1.003082565
+258,nonpun,Her strong criticism hurt her daughter's feelings.,feelings,fillings,-0.642220625,7.80E-10,7.801686316,0.844550556
+259,nonpun,The minister prayed for the evil woman's salvation.,salvation,salivation,-0.500464502,1.20E-09,8.197746444,1.040377361
+260,nonpun,His office is in a skyscraper.,office,orifice,-0.642220625,5.56E-12,7.607672432,0.745831882
+261,nonpun,"He posted $5,000 bail for his brother's release from jail. ",bail,braille,-0.539770603,3.62E-10,9.721061049,1.761937875
+262,nonpun,The boss called his workers together on the spur of the moment. ,spur,sperm,-0.513013532,9.66E-08,7.634170448,0.759578518
+263,nonpun,"The police fight crime, murder, theft, and drug dealing.",crime,grime,-0.539770603,1.69E-14,10.64084408,2.159821873
+264,nonpun,Smallpox left him with many pock marks.,pock,epoch,-0.485898152,1.07E-08,8.870734608,1.301764444
+265,nonpun,Our bones give us our shape.,bones,bonus,-0.440066539,2.21E-08,8.055653129,0.96758656
+266,nonpun,Smoking is a bad habit.,habit,hobbit,-0.545677237,5.00E-14,8.458987425,1.138646713
+267,nonpun,They went to the movie screening together.,screening,screaming,-0.549354275,2.10E-06,8.259244763,1.054085124
+268,nonpun,I really like reading Sherlock Holmes books.,Holmes,ohms,-0.539770603,1.56E-08,10.31845038,2.132347007
+269,nonpun,I can't remember the last time that happened.,can't,kant,-0.50985438,9.90E-08,7.595130059,0.741171254
+270,nonpun,He has a bad temper and is easily angered.,temper,tamper,-0.572434308,8.46E-13,8.146712593,1.005000045
+271,nonpun,She was late for our meeting.,late,latte,-0.677004284,3.56E-10,7.599908466,0.742622651
+272,nonpun,Rental contracts state that tenants are liable for damages that they cause to the property.,liable,libel,-0.543644573,5.19E-12,8.251276649,1.055971327
+273,nonpun,I twisted two pieces of thread on a needle.,twist,tryst,-0.493975389,7.69E-05,8.348653131,1.098828384
+274,nonpun,That man uses profane language.,profane,propane,-0.490093843,6.22E-08,7.64133801,0.763505011
+275,nonpun,He is leaving work right now.,leaving,leafing,-0.677004284,6.33E-12,7.576697622,0.730723516
+276,nonpun,The family had roast leg of lamb for dinner.,Lambs,yams,-0.646571521,0.000210798,8.05645246,0.994382405
+277,nonpun,I was talking to my friend the whole time.,talking,tolkien,-0.747109796,2.59E-07,8.535996806,1.179120008
+278,nonpun,I have a magnet on my desk that holds paper clips.,magnet,magnate,-0.614257778,4.07E-07,7.654055455,0.769824179
+279,nonpun,A raving mad man frightened those near him.,raving,raven,-0.533084754,5.74E-10,8.022103092,0.941007308
+280,nonpun,Alcohol burns easily.,alcohol,alkaline,-0.334899673,2.41E-07,7.529361772,0.707864253
+281,nonpun,The boss told us to work late on a holiday; he is a slave driver.,slave,shave,0.033051241,4.03E-11,8.555584493,1.190414973
+282,nonpun,My back is aching from too much sitting.,aching,aiken,-0.543446922,6.95E-05,7.980937558,0.92871141
+283,nonpun,He tried to hide his irritationbut it showed on his face.,irritation,irrigation,-0.634945155,1.66E-10,7.601577696,0.744898578
+284,nonpun,"We made an offer to buy a house, but the owner upped the ante.",ante,auntie,-0.634945155,2.73E-07,8.292650227,1.08591479
+285,nonpun,No one knows what will happen in the future.,future,fuchsia,-0.634945155,5.21E-14,8.070134967,0.978747778
+286,nonpun,She tells a story to her child each night.,tell,till,-0.634945155,1.91E-13,8.381053375,1.120232035
+287,nonpun,He asked her how's everything going.,how's,house,-0.634945155,0.066300995,7.598256996,0.74217734
+288,nonpun,We sat around the fire to keep warm.,fire,eire,-0.634945155,3.71E-08,7.962821837,0.920591343
+289,nonpun,I gave my friend some help with her homework.,help,alp,-0.634945155,1.55E-14,9.083803246,1.476020331
+290,nonpun,The dog was just guarding his house; he didn't mean to scare you.,guarding,garden,-0.500085971,7.31E-06,8.011152486,0.947240249
+291,nonpun,It has been a long time since we saw each other.,been,bean,-0.685494465,2.49E-15,7.644234968,0.765829755
+292,nonpun,She arranged the newspapers in order by their dates.,order,odor,-0.649550694,1.64E-14,7.965231608,0.918321801
+293,nonpun,He decided to leave his car in the parking lot.,lot,watt,-0.750748892,9.35E-14,8.720348501,1.243423696
+294,nonpun,She is the best student in the class.,best,pest,-0.72882109,9.96E-13,7.621951908,0.75459299
+295,nonpun,That drinking glass has a crack in it.,crack,crank,-0.653930484,4.70E-08,7.506803125,0.696533059
+296,nonpun,"There was a lag in communications, so he did not hear the news until many days later.",lag,leg,-0.684813303,4.59E-05,8.263474203,1.079830375
+297,nonpun,Tooth decay can result from poor dental hygiene.,decay,decade,-0.750748892,4.24E-11,9.22676593,1.518133435
+298,nonpun,The car accident was a very traumatic experience for her.,traumatic,dramatic,-0.706741105,5.78E-11,8.358667078,1.11040208
+299,nonpun,That traumatic incident left her scarred.,traumatic,grammatic,-0.750748892,1.12E-13,8.813654405,1.32562613
+300,nonpun,That driver has a hostile attitude.,hostile,hosta,-0.641828981,4.99E-14,8.014976255,0.94918337
+301,nonpun,The amount that her business makes is always doubling every year.,doubling,dublin,-0.695790698,1.76E-08,8.087195121,0.984716928
+302,nonpun,He was sent to prison for robbing a bank.,prison,prism,-0.698777682,3.63E-14,8.100404277,0.987457283
+303,nonpun,Trains go across a bridge over the river.,bridge,fridge,-0.580792241,6.44E-10,8.826590923,1.334701013
+304,nonpun,The leader of a Native American tribe is known as the chief. ,chief,thief,-0.648852522,1.78E-09,8.541858765,1.183735843
+305,nonpun,Everyone admired his resolution when he quit smoking.,resolution,revolution,-0.538021462,4.38E-06,7.524206384,0.70505347
+306,nonpun,"Her legs were cold, so she put on a pair of pants.",Pants,plants,-0.489570828,0.000252479,8.546211192,1.175078656
+307,nonpun,Insider trading can get you into a lot of trouble.,insider,incisor,-0.54732227,7.45E-12,7.988522678,0.937113365
+308,nonpun,Great minds think alike.,minds,mimes,-0.622809872,3.32E-14,7.855923867,0.859383457
+309,nonpun,She was caught littering and had to pay a fine.,littering,glittering,-0.72688386,7.98E-05,7.610222238,0.748779576
+310,nonpun,She has a good attitude toward work,attitude,altitude,-0.596126024,9.46E-10,7.785306095,0.83378805
+311,nonpun,He couldn't wait to open his Christmas presents.,presents,presence,-0.540453656,6.43E-09,8.35350301,1.077165187
+312,nonpun,"The next time that you're late, you'll be in trouble.",next,necks,-0.574679241,3.47E-13,7.598707072,0.742460723
+313,nonpun,A hurricane causes great destruction to buildings and trees.,destruction,digestion,-0.651031288,6.32E-11,9.991508498,1.864630217
+314,nonpun,Butter is made from cream.,cream,ream,-0.701932653,2.60E-11,8.027573007,0.945277671
+315,nonpun,He was able to see clearly after getting glasses.,see,seize,-0.318677436,1.48E-12,8.948625546,1.39474628
+316,nonpun,They are very considerate and always offer to give me a ride.,offer,author,-0.546247544,3.79E-10,8.958525958,1.325141114
+317,nonpun,I love to eat chocolate sauce on vanilla ice cream.,sauce,source,-0.595641885,8.36E-09,9.243768546,1.520734362
+318,nonpun,That company pays its employees every two weeks.,pays,paste,-0.625580606,3.58E-10,8.56934727,1.220474097
+319,nonpun,She should learn to express her feelings better.,express,espresso,-0.620421495,5.05E-15,8.167692636,1.007139954
+320,nonpun,He has a good sense for business.,sense,scents,-0.680768834,6.53E-12,8.183485243,1.017993572

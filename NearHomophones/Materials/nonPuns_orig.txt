@@ -1,0 +1,160 @@
+161	nonpun	1	a	The owner takes the lion's share of profits from the company.	lion	line	1
+162	nonpun	2	a	A dentist examines one tooth at a time.	tooth	truth	1
+163	nonpun	3	a	Cilia are hairlike projections on the surface of some cells.	cilia	sillier	1
+164	nonpun	4	a	Prince William is heir to the British throne.	heir	hair	1
+165	nonpun	5	a	Food and clothing are basic necessities.	clothing	closing	1
+166	nonpun	6	a	The ambiance in that hotel is one of warmth and charm.	ambiance	ambulance	1
+167	nonpun	7	a	Pigeons use the sunny sides of roofs as perches.	perches	purchase	1
+168	nonpun	8	a	"The mayor reworded his speech, because his advisors told him to do so."	reword	reward	1
+169	nonpun	9	a	I have a math exam today at school.	math	mass	1
+170	nonpun	10	a	He is a stealer of hearts.	stealer	steeler	1
+171	nonpun	11	a	That chair is made of wicker.	wicker	wicked	1
+172	nonpun	12	a	She has good spatial skills; she knows how to build a house from plans on paper.	spatial	special	1
+173	nonpun	13	a	Dancers whirled on the stage.	whirled	world	1
+174	nonpun	14	a	The owner behaves like a little Caesar with his employees.	caesars	scissors	1
+175	nonpun	15	a	The space launch took place this morning.	launch	lunch	1
+176	nonpun	16	a	Our apple tree was in bloom last week.	bloom	blue	1
+177	nonpun	17	a	His dog has fleas.	flea	free	1
+178	nonpun	18	a	The dentist replaced two fillings I had lost.	fillings	feelings	1
+179	nonpun	19	a	The dog's salivation was all over the carpet.	salivation	salvation	1
+180	nonpun	20	a	The mouth is an orifice.	orifice	office	1
+181	nonpun	21	a	He reads braille with his fingertips.	braille	bail	1
+182	nonpun	22	a	He decided to donate his sperm.	sperm	spur	1
+183	nonpun	23	a	The city's buildings are covered with grime.	grime	crime	1
+184	nonpun	24	a	The end of the nuclear arms race began a new epoch of peace and cooperation.	epoch	pock	1
+185	nonpun	25	a	Our company pays everyone a bonus at the end of the year.	bonus	bones	1
+186	nonpun	26	a	My favorite creatures in Lord of the Rings are hobbits.	hobbit	habit	1
+187	nonpun	27	a	She started screaming when the man pulled out a knife.	screaming	screening	1
+188	nonpun	28	a	Ohms are used to measure electrical resistance.	ohms	Holmes	1
+189	nonpun	29	a	Kant was a German philosopher.	kant	can't	1
+190	nonpun	30	a	The barista used a tamper to press down the coffee.	tamper	temper	1
+191	nonpun	31	a	I like a latte in the morning to wake me up.	latte	late	1
+192	nonpun	32	a	The tabloid newspaper libeled a movie star.	libel	liable	1
+193	nonpun	33	a	The lovers go away to the country for weekend trysts.	tryst	twist	1
+194	nonpun	34	a	He burns propane gas in his stove.	propane	profane	1
+195	nonpun	35	a	He saw her leafing through the pages of an old book.	leafing	leaving	1
+196	nonpun	36	a	Some people eat yams with their turkey.	yams	Lambs	1
+197	nonpun	37	a	Tolkien wrote Lord of the Rings.	tolkien	talking	1
+198	nonpun	38	a	She is a coal and iron magnate from Australia.	magnate	magnet	1
+199	nonpun	39	a	A raven is a large black bird.	raven	raving	1
+200	nonpun	40	a	He tried out an alkaline diet to maintain the body's ideal pH balance.	alkaline	alcohol	1
+201	nonpun	41	a	Your beard is growing too long; you need a shave.	shave	slave	1
+202	nonpun	42	a	Clay Aiken rose to fame after he won American Idol. 	aiken	aching	1
+203	nonpun	43	a	Irrigation is the artificial application of water to the land or soil.	irrigation	irritation	1
+204	nonpun	44	a	My Auntie Betty is my mother's sister.	auntie	ante	1
+205	nonpun	45	a	Her favorite flower is the fuchsia.	fuchsia	future	1
+206	nonpun	46	a	Farmers till the soil in the springtime.	till	tell	1
+207	nonpun	47	a	Our house is located on the corner.	house	how's	1
+208	nonpun	48	a	Eire is a former name for the Republic of Ireland.	eire	fire	1
+209	nonpun	49	a	An alp is a very high mountain.	alp	help	1
+210	nonpun	50	a	We have a small flower garden behind our house.	garden	guarding	1
+211	nonpun	51	a	I like to eat lima beans and black beans.	bean	been	1
+212	nonpun	52	a	The odor of old fish filled the air.	odor	order	1
+213	nonpun	53	a	My desk lamp uses a 60-watt light bulb.	watt	lot	1
+214	nonpun	54	a	"Rats, mice, and flies are regarded as pests."	pest	best	1
+215	nonpun	55	a	He is often a crank in the morning.	crank	crack	1
+216	nonpun	56	a	Runners need strong legs.	leg	lag	1
+217	nonpun	57	a	A decade is a pretty long time.	decade	decay	1
+218	nonpun	58	a	He has written dramatic works for the stage.	dramatic	traumatic	1
+219	nonpun	59	a	That sentence has an unusual grammatic structure.	grammatic	traumatic	1
+220	nonpun	60	a	The hosta is a beautiful plant.	hosta	hostile	1
+221	nonpun	61	a	Dublin is the capital of Ireland.	dublin	doubling	1
+222	nonpun	62	a	Prisms can be used to reflect and split light.	prism	prison	1
+223	nonpun	63	a	I put the milk and meat in the fridge.	fridge	bridge	1
+224	nonpun	64	a	A thief stole my luggage at the airport.	thief	chief	1
+225	nonpun	65	a	The Industrial Revolution changed how people worked and lived.	revolution	resolution	1
+226	nonpun	66	a	Humans and animals could not live without plants.	plants	Pants	1
+227	nonpun	67	a	Rats tore into the meat with their strong incisors.	incisor	insider	1
+228	nonpun	68	a	The mimes were very skilled at imitating people.	mimes	minds	1
+229	nonpun	69	a	Her jewels were glittering in the sun.	glittering	littering	1
+230	nonpun	70	a	"Our airplane is flying at an altitude of 35,000 feet."	altitude	attitude	1
+231	nonpun	71	a	The general has great presence.	presence	presents	1
+232	nonpun	72	a	She wore a scarf around her neck.	necks	next	1
+233	nonpun	73	a	She has good digestion; she can eat anything!	digestion	destruction	1
+234	nonpun	74	a	Our office uses 20 reams of paper each week.	ream	cream	1
+235	nonpun	75	a	I seized his arm so he couldn't run away.	seize	see	1
+236	nonpun	76	a	Cervantes is one of the most famous authors in the Spanish language.	author	offer	1
+237	nonpun	77	a	The source of our difficulties is not having enough money.	source	sauce	1
+238	nonpun	78	a	She used paste to put pictures in her notebook.	paste	pays	1
+239	nonpun	79	a	I like an espresso after dinner.	espresso	express	1
+240	nonpun	80	a	The scent of flowers relaxes me.	scents	sense	1
+241	nonpun	1	b	My notebook has thin blue lines printed on each page.	line	lion	1
+242	nonpun	2	b	She always speaks the truth.	truth	tooth	1
+243	nonpun	3	b	"When he drinks wine, he starts acting sillier."	sillier	cilia	1
+244	nonpun	4	b	I found a cat hair in my food.	hair	heir	1
+245	nonpun	5	b	The chairman made some closing remarks at the end of the meeting.	closing	clothing	1
+246	nonpun	6	b	An ambulance came to the car accident in two minutes.	ambulance	ambiance	1
+247	nonpun	7	b	She decided to purchase a new car.	purchase	perches	1
+248	nonpun	8	b	She gave herself a reward for working hard all year.	reward	reword	1
+249	nonpun	9	b	A mass of people were in the town square for the concert.	mass	math	1
+250	nonpun	10	b	A steeler is something that is covered in steel.	steeler	stealer	1
+251	nonpun	11	b	A wicked man took the child from his parents.	wicked	wicker	1
+252	nonpun	12	b	A birthday party is a special occasion.	special	spatial	1
+253	nonpun	13	b	It is possible to fly around the world in an airplane.	world	whirled	1
+254	nonpun	14	b	Hairdressers use scissors to cut people's hair.	scissors	caesars	1
+255	nonpun	15	b	I had a sandwich for lunch.	lunch	launch	1
+256	nonpun	16	b	Blue and yellow make green.	blue	bloom	1
+257	nonpun	17	b	"After twenty years in prison, he was a free man."	free	flea	1
+258	nonpun	18	b	Her strong criticism hurt her daughter's feelings.	feelings	fillings	1
+259	nonpun	19	b	The minister prayed for the evil woman's salvation.	salvation	salivation	1
+260	nonpun	20	b	His office is in a skyscraper.	office	orifice	1
+261	nonpun	21	b	"He posted $5,000 bail for his brother's release from jail."	bail	braille	1
+262	nonpun	22	b	The boss called his workers together on the spur of the moment.	spur	sperm	1
+263	nonpun	23	b	"The police fight crime, murder, theft, and drug dealing."	crime	grime	1
+264	nonpun	24	b	Smallpox left him with many pock marks.	pock	epoch	1
+265	nonpun	25	b	Our bones give us our shape.	bones	bonus	1
+266	nonpun	26	b	Smoking is a bad habit.	habit	hobbit	1
+267	nonpun	27	b	They went to the movie screening together.	screening	screaming	1
+268	nonpun	28	b	I really like reading Sherlock Holmes books.	Holmes	ohms	1
+269	nonpun	29	b	I can't remember the last time that happened.	can't	kant	1
+270	nonpun	30	b	He has a bad temper and is easily angered.	temper	tamper	1
+271	nonpun	31	b	She was late for our meeting.	late	latte	1
+272	nonpun	32	b	Rental contracts state that tenants are liable for damages that they cause to the property.	liable	libel	1
+273	nonpun	33	b	I twisted two pieces of thread on a needle.	twist	tryst	1
+274	nonpun	34	b	That man uses profane language.	profane	propane	1
+275	nonpun	35	b	He is leaving work right now.	leaving	leafing	1
+276	nonpun	36	b	The family had roast leg of lamb for dinner.	Lambs	yams	1
+277	nonpun	37	b	I was talking to my friend the whole time.	talking	tolkien	1
+278	nonpun	38	b	I have a magnet on my desk that holds paper clips.	magnet	magnate	1
+279	nonpun	39	b	A raving mad man frightened those near him.	raving	raven	1
+280	nonpun	40	b	Alcohol burns easily.	alcohol	alkaline	1
+281	nonpun	41	b	The boss told us to work late on a holiday; he is a slave driver.	slave	shave	1
+282	nonpun	42	b	My back is aching from too much sitting.	aching	aiken	1
+283	nonpun	43	b	He tried to hide his irritationbut it showed on his face.	irritation	irrigation	1
+284	nonpun	44	b	"We made an offer to buy a house, but the owner upped the ante."	ante	auntie	1
+285	nonpun	45	b	No one knows what will happen in the future.	future	fuchsia	1
+286	nonpun	46	b	She tells a story to her child each night.	tell	till	1
+287	nonpun	47	b	He asked her how's everything going.	how's	house	1
+288	nonpun	48	b	We sat around the fire to keep warm.	fire	eire	1
+289	nonpun	49	b	I gave my friend some help with her homework.	help	alp	1
+290	nonpun	50	b	The dog was just guarding his house; he didn't mean to scare you.	guarding	garden	1
+291	nonpun	51	b	It has been a long time since we saw each other.	been	bean	1
+292	nonpun	52	b	She arranged the newspapers in order by their dates.	order	odor	1
+293	nonpun	53	b	He decided to leave his car in the parking lot.	lot	watt	1
+294	nonpun	54	b	She is the best student in the class.	best	pest	1
+295	nonpun	55	b	That drinking glass has a crack in it.	crack	crank	1
+296	nonpun	56	b	"There was a lag in communications, so he did not hear the news until many days later."	lag	leg	1
+297	nonpun	57	b	Tooth decay can result from poor dental hygiene.	decay	decade	1
+298	nonpun	58	b	The car accident was a very traumatic experience for her.	traumatic	dramatic	1
+299	nonpun	59	b	That traumatic incident left her scarred.	traumatic	grammatic	1
+300	nonpun	60	b	That driver has a hostile attitude.	hostile	hosta	1
+301	nonpun	61	b	The amount that her business makes is always doubling every year.	doubling	dublin	1
+302	nonpun	62	b	He was sent to prison for robbing a bank.	prison	prism	1
+303	nonpun	63	b	Trains go across a bridge over the river.	bridge	fridge	1
+304	nonpun	64	b	The leader of a Native American tribe is known as the chief.	chief	thief	1
+305	nonpun	65	b	Everyone admired his resolution when he quit smoking.	resolution	revolution	1
+306	nonpun	66	b	"Her legs were cold, so she put on a pair of pants."	Pants	plants	1
+307	nonpun	67	b	Insider trading can get you into a lot of trouble.	insider	incisor	1
+308	nonpun	68	b	Great minds think alike.	minds	mimes	1
+309	nonpun	69	b	She was caught littering and had to pay a fine.	littering	glittering	1
+310	nonpun	70	b	She has a good attitude toward work	attitude	altitude	1
+311	nonpun	71	b	He couldn't wait to open his Christmas presents.	presents	presence	1
+312	nonpun	72	b	"The next time that you're late, you'll be in trouble."	next	necks	1
+313	nonpun	73	b	A hurricane causes great destruction to buildings and trees.	destruction	digestion	1
+314	nonpun	74	b	Butter is made from cream.	cream	ream	1
+315	nonpun	75	b	He was able to see clearly after getting glasses.	see	seize	1
+316	nonpun	76	b	They are very considerate and always offer to give me a ride.	offer	author	1
+317	nonpun	77	b	I love to eat chocolate sauce on vanilla ice cream.	sauce	source	1
+318	nonpun	78	b	That company pays its employees every two weeks.	pays	paste	1
+319	nonpun	79	b	She should learn to express her feelings better.	express	espresso	1
+320	nonpun	80	b	He has a good sense for business.	sense	scents	1

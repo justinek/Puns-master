@@ -2,7 +2,7 @@ import sys, re, string
 
 # turn zscored data into long form
 
-f = open("../Data/data_zscored.txt", "r")
+f = open("../Data/data_zscored_corrected.txt", "r")
 
 subjectFields = ["workerID", "gender", "age", "condition"]
 itemFields = ["pairID", "order", "wordOrder", "result", "zscored"]

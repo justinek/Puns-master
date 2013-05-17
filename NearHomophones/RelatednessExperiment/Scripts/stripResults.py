@@ -5,7 +5,7 @@ import sys, re, string
 # relevants fields
 fields = ["workerid", "Answer.gender", "Answer.age", "Answer.condition", "Answer.uniquePairIDs", "Answer.orders", "Answer.wordOrders", "Answer.results"]
 
-f = open("../Data/data_raw_filterLanguage.txt", "r")
+f = open("../Data/data_raw_corrected.txt", "r")
 
 fieldsIndex = []
 

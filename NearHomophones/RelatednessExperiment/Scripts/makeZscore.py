@@ -17,7 +17,7 @@ def meanstdv(x):
 resultsField = "results"
 resultsIndex = 0
 
-f = open("../Data/data_lean.txt", "r")
+f = open("../Data/data_lean_corrected.txt", "r")
 
 print "workerid\tgender\tage\tcondition\tpairID\torders\twordOrders\tresults\tzscored"
 firstline = 0
@@ -36,6 +36,7 @@ for l in f:
        zscoredResults = [(x-mean)/std for x in results]
        zscoredResults = [str(x) for x in zscoredResults]
        print "\t".join(toks[0:resultsIndex + 1]) + "\t" + ",".join(zscoredResults)
+
 
 
 
