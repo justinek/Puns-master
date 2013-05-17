@@ -1,0 +1,74 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: PNAS_pun.aux
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Database file #1: pun_bib.bib
+You're missing a field name---line 40 of file pun_bib.bib
+ : 
+ : %  title={The use of humor and its influences on spirituality and coping in breast cancer survivors},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 359 of file pun_bib.bib
+ : 
+ : %  title={Humor, its origin and development},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+apacite.bst [2007/09/03 v4.00 APA bibliography style]
+Warning--No journal in binsted1996machine
+Warning--No address in frank1989humor
+Warning--No address in hurley2011inside
+Warning--No publisher in kiddon2011s
+Warning--No address in kiddon2011s
+Warning--No publisher in levy2008noisy
+Warning--No address in levy2008noisy
+Warning--No address in martin2007psychology
+Warning--No address in semantic2010
+You've used 19 entries,
+            6345 wiz_defined-function locations,
+            1302 strings with 13137 characters,
+and the built_in function-call counts, 34586 in all, are:
+= -- 4207
+> -- 311
+< -- 1662
++ -- 1623
+- -- 38
+* -- 2278
+:= -- 6448
+add.period$ -- 82
+call.type$ -- 19
+change.case$ -- 98
+chr.to.int$ -- 0
+cite$ -- 47
+duplicate$ -- 874
+empty$ -- 1396
+format.name$ -- 491
+if$ -- 6553
+int.to.chr$ -- 0
+int.to.str$ -- 38
+missing$ -- 0
+newline$ -- 456
+num.names$ -- 154
+pop$ -- 587
+preamble$ -- 1
+purify$ -- 76
+quote$ -- 0
+skip$ -- 2247
+stack$ -- 0
+substring$ -- 1807
+swap$ -- 563
+text.length$ -- 61
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 1712
+warning$ -- 9
+while$ -- 175
+width$ -- 0
+write$ -- 572
+(There were 2 error messages)
