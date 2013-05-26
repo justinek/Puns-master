@@ -95,3 +95,33 @@ p <- ggplot(data=grid,aes(x=Ambiguity,y=Distinctiveness,z=Funniness)) +
                      axis.title.y=element_text(size=16))
 library(directlabels)
 direct.label(p)
+
+## reads model output for max support
+d.support <- read.csv("maxSupport_r20_p50.csv")
+d.funny$maxPm1 <- d.support$maxPm1
+d.funny$maxPm2 <- d.support$maxPm2
+
+with(d.funny, cor.test(rating, log(maxPm1)))
+with(d.funny, cor.test(rating, log(maxPm2)))
+with(d.funny, cor.test(rating, log(maxPm1/ maxPm2)))
+with(d.funny, cor.test(rating, log(maxPm1) + log(maxPm2)))
+
+ggplot(d.funny, aes(x=log(maxPm1), y=rating, color=sentenceType)) +
+  geom_point() +
+  theme_bw()
+
+ggplot(d.funny, aes(x=log(maxPm2), y=rating, color=sentenceType)) +
+  geom_point() +
+  theme_bw()
+
+ggplot(d.funny, aes(x=log(maxPm1/maxPm2), y=rating, color=sentenceType)) +
+  geom_point() + 
+  theme_bw()
+
+ggplot(d.funny, aes(x=log(maxPm1*maxPm2), y=rating, color=sentenceType)) +
+  geom_point() + 
+  theme_bw()
+
+ggplot(d.funny, aes(x=log(maxPm1), y=log(maxPm2), color=sentenceType)) +
+  geom_point() +
+  theme_bw()

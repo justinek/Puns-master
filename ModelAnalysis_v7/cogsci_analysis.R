@@ -20,6 +20,8 @@ ggplot(f.ratings, aes(x=KL, y=funniness, color=sentenceType)) +
   geom_point() +
   theme_bw()
 
+## read in support measures
+
 
 summary(lm(data=f.ratings, funniness ~ entropy + KL))
 
