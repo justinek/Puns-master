@@ -6,12 +6,12 @@
 import sys, re, string, itertools
 import math
 
+# parameters
+homophone_relatedness = float(sys.argv[2])
+parameter = float(sys.argv[3])
+
 # The output is formatted as follows:
-
-parameter = 10
-homophone_relatedness = 12.9
-
-print "uniqueID,sentenceType,isOrig,maxPm1,maxPm2,numWordsM1,numWordsM2"
+print "uniqueID,sentenceType,isOrig,maxPm1,maxPm2,numWordsM1,numWordsM2,numWords"
 
 # a dictionary holding unigram probabilities for h1 (original homophone)
 # indexed by the original homophone
@@ -226,7 +226,7 @@ for k, v in sentenceDict.iteritems():
        
     #print "Words: " + ";".join(words)
     #print "P(m1): " + str(math.exp(m1PriorProb)) + "; P(m2): " + str(math.exp(m2PriorProb))
-    print uniqueID + "," + sentenceType + "," + str(isOrig) + "," + str(maxProbM1GivenF) + "," + str(maxProbM2GivenF) + "," + str(sizeFforM1) + "," + str(sizeFforM2)
+    print uniqueID + "," + sentenceType + "," + str(isOrig) + "," + str(maxProbM1GivenF) + "," + str(maxProbM2GivenF) + "," + str(sizeFforM1) + "," + str(sizeFforM2) + "," + str(numWords)   
     #print maxFforM1
     #print maxFforM2
     #print "P(m1|w): " + str(probM1) + "; P(m2|w): " + str(probM2)

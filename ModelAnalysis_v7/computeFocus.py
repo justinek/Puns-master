@@ -10,8 +10,8 @@ def normListSumTo(L, sumTo=1):
     sum = reduce(lambda x,y:x+y, L)
     return [ x/(sum*1.0)*sumTo for x in L]
 
-homophone_relatedness = 2
-parameter = 80
+homophone_relatedness = float(sys.argv[2])
+parameter = float(sys.argv[3])
 
 # The output is formatted as follows:
 
@@ -215,6 +215,9 @@ for k, v in sentenceDict.iteritems():
     # normalizes probability vectors of F to sum to 1 for each M1 and M2
     normalizedFWGivenM1 = normListSumTo(fWGivenM1, 1)
     normalizedFWGivenM2 = normListSumTo(fWGivenM2, 1)
+    #print fWGivenM1
+    #print normalizedFWGivenM1
+    #print sum(normalizedFWGivenM1)
     
     # compute symmetrised KL between the two distributions
     # and min KL between the two distributions
